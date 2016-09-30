@@ -5,6 +5,7 @@ This implementation is intended to be used in software engineering courses as
 a subject software system.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Basic Statistics uses the Apache Ant build system. **Make sure that you have [Ant](https://ant.apache.org) installed.**
 
 #### How to build Basic Statistics and run its tests from the terminal:
@@ -46,6 +47,9 @@ build.xml:17 Unable to find a javac compiler;
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
 =======
 How to build:
+=======
+How to build (from Terminal):
+>>>>>>> e4e4cff (Updated README)
 
 1. Be sure you are in the root directory with build.xml in your current directory.
 
@@ -55,7 +59,7 @@ How to build:
 
 4. Compiled java classes will be in /bin
 
-How to run:
+How to run (from Terminal):
 
 1. After typing ant, cd into /bin to run the PrettyGood.class file. "java PrettyGood". A GUI should show up
 
