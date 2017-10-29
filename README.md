@@ -8,6 +8,7 @@ a subject software system.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Basic Statistics uses the Apache Ant build system. **Make sure that you have [Ant](https://ant.apache.org) installed.**
 
 #### How to build Basic Statistics and run its tests from the terminal:
@@ -63,8 +64,11 @@ a subject software system.
 
 How to build and test (from Terminal):
 >>>>>>> 7b43acb (Updated README file.)
+=======
+How to build and run tests from the terminal:
+>>>>>>> d379757 (added more info about Ant)
 
-1. Make sure that you have Ant installed.
+1. Basic Statistics uses Apache Ant.  Make sure that you have Ant installed.  https://ant.apache.org/
 
 2. cd into the root directory, which contains the build.xml build file.
 
